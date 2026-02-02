@@ -8,7 +8,7 @@ This application focuses on clean UI, strong UX patterns, and seamless integrati
 
 ## 🌐 Live Demo
 
-👉 https://your-frontend-url.vercel.app  
+👉 https://mini-social-app-client.vercel.app
 
 ---
 
